@@ -1,3 +1,6 @@
+This project creates a user-friendly web application to teach users how to use the GCSU self-registration through Unify.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
